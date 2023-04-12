@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="pais">España</string>
+    <string name="calacalobra">Cala Calobra</string>
+    <string name="ezaro">ezaro</string>
+    <string name="islotegaztelugatxe">Islote Gaztelugatxe</string>
+    <string name="lanzarote5lucviatour">Lanzarote Lucviatour</string>
+    <string name="monasteriodesanmigueldelfai">Monasterio de San Miguel del fai</string>
+    <string name="monasteriomontserrat">Monasterio Montserrat</string>
+    <string name="murallachinadefinestresenhuesca">Muralla China de Finestresen Huesca</string>
+    <string name="playatierraadentro">Playa Tierra Adentro</string>
+    <string name="riourederra">Rio Urederra</string>
+    <string name="somiedo">Somiedo</string>
+    <string name="valledeljerte">Valle del Jerte</string>
+</resources>
